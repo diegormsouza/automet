@@ -2,7 +2,7 @@
 
 ![rect42596](https://github.com/diegormsouza/automet/assets/54595784/e2452735-f752-44e5-9665-42438980a790)
 
-Developed by: Diego Souza (https://github.com/diegormsouza) - INPE / CGCT / DISSM (Brazil)
+**Developed by:** Diego Souza (https://github.com/diegormsouza) - INPE / CGCT / DISSM (Brazil)
 
 **Objective:** AutoMET was created to facilitate the access and visualization of satellite imagery and products, NWP data and other meteorological information using simple functions that anyone can use and adapt, including those not familiarized with programming. The examples run directly in the cloud, without the need of installing any tools (but it is also possible to adapt it and run the examples locally).
 
