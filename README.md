@@ -12,15 +12,15 @@
 
 **Supported Datasets (Jan 2024):**
 
-**Geostationary Ring (EUMETVIEW):** Global mosaics (every 3 hours) with GOES-East/West, Meteosat 0°, Meteosat 45.5° and Himawari data. Data available since June 06 2021 18:00 UTC
+- **Geostationary Ring (EUMETVIEW):** Global mosaics (every 3 hours) with GOES-East/West, Meteosat 0°, Meteosat 45.5° and Himawari data. Data available since June 06 2021 18:00 UTC
 
-**GOES-East and GOES-West (AWS):** 'goes16' data available since July 10 2017, 'goes17' since August 28 2018, 'goes18' since August 02 2022. Note: please consider that goes-16 generated images every 15 minutes (instead of 10) until a few months after launch
+- **GOES-East and GOES-West (AWS):** 'goes16' data available since July 10 2017, 'goes17' since August 28 2018, 'goes18' since August 02 2022. Note: please consider that goes-16 generated images every 15 minutes (instead of 10) until a few months after launch
 
-**Meteosat 0° and Meteosat 45.5° (EUMDAC):** 'msg0' tested with data since March 26 2004 (every 15 minutes). 'msg45' tested with data since February 01 2017.
+- **Meteosat 0° and Meteosat 45.5° (EUMDAC):** 'msg0' tested with data since March 26 2004 (every 15 minutes). 'msg45' tested with data since February 01 2017.
 NWP: open ecmwf data available for download since January 21 2022 00:00 ('2022-01-21 00:00'. gfs data available for download since February 26 2021 00:00 ('2021-02-26 00:00'). gfs products: 'pgrb2.0p25', 'pgrb2.0p50', 'pgrb2.1p00'.
 
-**METAR (UNIDATA):** metar data available for the last 10 days, for each hour
+- **METAR (UNIDATA):** metar data available for the last 10 days, for each hour
 
-**EUMETSAT (LAND SAF and H SAF):** A variety of products from the SAFs (Satellite Application Facilities).
+- **EUMETSAT (LAND SAF and H SAF):** A variety of products from the SAFs (Satellite Application Facilities).
 
 **Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations as well.
