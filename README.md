@@ -4,7 +4,7 @@
 
 **Developed by:** Diego Souza (https://github.com/diegormsouza) - INPE / CGCT / DISSM (Brazil)
 
-**Objective:** AutoMET was created to facilitate the access and visualization of satellite imagery and products, NWP data and other meteorological information using simple functions that anyone can use and adapt, including those not familiarized with programming. The examples run directly in the cloud, without the need of installing any tools (but it is also possible to adapt it and run the examples locally).
+**Objective:** AutoMET was created to facilitate the access and visualization of satellite imagery and products, NWP data and other meteorological information using simple functions that anyone can use and adapt, **including those not familiarized with programming**. The examples run directly in the cloud, without the need of installing any tools (but it is also possible to adapt it and run the examples locally).
 
 **The Challenge:** During training events on satellite meteorology and related fields, we usually have a mixed audience (researchers, students, technicians, meteorologists, managers, etc). Hands-on programming activities are frequently demanded, but usually, most of the participants are not programmers, thus taking a considerable amount of time for them to be able to produce advanced images. This solution aims to create a simple way to motivate participants to learn programming by allowing them to download, process and visualize information by using simple functions. Then, if there is interest, they can understand how these functions work.
 
