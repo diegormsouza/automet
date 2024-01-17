@@ -26,5 +26,5 @@ NWP: open ecmwf data available for download since January 21 2022 00:00 ('2022-0
 **Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations as well.
 
 Among the main packages used by Automet are:
-Pytroll/Satpy: https://github.com/pytroll/satpy 
-Herbie: https://github.com/blaylockbk/Herbie
+- Pytroll/Satpy: https://github.com/pytroll/satpy 
+- Herbie: https://github.com/blaylockbk/Herbie
