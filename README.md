@@ -6,7 +6,7 @@
 
 **The Challenge:** During training events on satellite meteorology and related fields, we usually have a mixed audience (researchers, students, technicians, meteorologists, managers, etc). Hands-on programming activities are frequently demanded, but usually, most of the participants are not programmers, thus taking a considerable amount of time for them to be able to produce advanced images, and some participants don't feel motivated. This solution aims to create a simple way to motivate participants to learn programming by allowing them to quickly download, process and visualize information by using simple functions. Then, after creating nice images, we proceed understanding how these functions work.
 
-**Methodology:** Instead of going through the traditional learning steps (general programming aspects -> visualizing images -> motivation), this solution proposes another approach: visualizing images -> motivation -> general programming concepts. This new approach has proved effective in recent training events.
+**Methodology:** Instead of going through the traditional learning steps (general programming aspects -> visualizing images -> motivation), this solution proposes another approach: visualizing images -> motivation -> general programming concepts. This new approach has proved effective in [recent training events](https://moodle.cptec.inpe.br/course/view.php?id=31).
 
 **Supported Datasets (Jan 2024):**
 
