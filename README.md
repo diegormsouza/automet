@@ -14,7 +14,7 @@
 
 - **Geostationary Ring (EUMETVIEW):** Global mosaics (every 3 hours) with GOES-East/West, Meteosat 0°, Meteosat 45.5° and Himawari data. Data available since June 06 2021 18:00 UTC - 'ir108', 'airmass', 'natural_color', 'ash' and 'dust' RGBs are supported.
 
-- **GOES-East and GOES-West (AWS):** 'goes16' data available since July 10 2017, 'goes17' since August 28 2018, 'goes18' since August 02 2022. Note: please consider that goes-16 generated images every 15 minutes (instead of 10) until a few months after launch. **Note:** For the sake of speed, only ABI L2 Cloud and Moisture Imagery (Multi-Band Format) - 2 km resolution are supported for now. All 16 bands and more than 20 composites are supported.
+- **GOES-East and GOES-West (AWS):** 'goes16' data available since July 10 2017, 'goes17' since August 28 2018, 'goes18' since August 02 2022. Note: please consider that goes-16 generated images every 15 minutes (instead of 10) until a few months after launch. **Note:** For the sake of speed, only ABI L2 Cloud and Moisture Imagery (Multi-Band Format) - Full Disks - 2 km resolution are supported for now. All 16 bands and more than 20 composites are supported.
 
 - **Meteosat 0° and Meteosat 45.5° (EUMDAC):** 'msg0' tested with data since March 26 2004 (every 15 minutes). 'msg45' tested with data since February 01 2017. All 12 SEVIRI bands and more than 20 composites are supported.
 
@@ -34,7 +34,7 @@
 - **AutoMET_06_ANIMATIONS.ipynb:** [Link](https://colab.research.google.com/drive/1TxgTEYYLxNhd1gHZfvcK-GdhvG4yjtz0?usp=sharing)
 - **AutoMET_07_SAFs.ipynb:** [Link](https://colab.research.google.com/drive/1iTiWOu9mk5CePaz77JQRqyBdUkJKD2Gj?usp=sharing)
 
-**Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations and research as well.
+**Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations and research as well. You may adapt the functions the way you need.
 
 Among the main packages used by AutoMET are:
 - Pytroll/Satpy: https://github.com/pytroll/satpy 
