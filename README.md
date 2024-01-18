@@ -24,7 +24,7 @@
 
 - **EUMETSAT (LAND SAF and H SAF):** A variety of products from the SAFs (Satellite Application Facilities). 14 products (LEO and GEO) from the SAFs are supported.
 
-**Links for the latest version of the Example Google Colab Notebooks:**
+**Links for the latest version of the Example Google Colab Notebooks (you may create a copy and adapt them according to your needs):**
 
 - **AutoMET_01_GOES-R.ipynb:** [Link](https://colab.research.google.com/drive/1zuK7b4RmtECoNqPyiNi2Cb8t_psaQFJB?usp=sharing)
 - **AutoMET_02_METEOSAT.ipynb:** [Link](https://colab.research.google.com/drive/1hWFwf_Ftz-Aod6Tr5V6hK7jKYMb8LL9t?usp=sharing)
