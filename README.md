@@ -4,6 +4,8 @@
 
 **Objective:** The AutoMET solution (it is not a package) was created to facilitate the access and visualization of satellite imagery and products, NWP data and other meteorological information using simple functions that anyone can use and adapt, **including those not familiarized with programming**. The examples run directly in the cloud (Google Colab), without the need of installing any tools (but it is also possible to adapt it and run the examples locally).
 
+![1](https://github.com/diegormsouza/automet/assets/54595784/f09c3af9-a5fc-46c4-ae96-f67364f24916)
+
 **The Challenge:** During training events on satellite meteorology and related fields, we usually have a mixed audience (researchers, students, technicians, meteorologists, managers, etc). Hands-on programming activities are frequently demanded, but usually, most of the participants are not programmers, thus taking a considerable amount of time for them to be able to produce advanced images, and some participants don't feel motivated. This solution aims to create a simple way to motivate participants to learn programming by allowing them to quickly download, process and visualize information by using simple functions. Then, after creating nice images, we proceed understanding how these functions work.
 
 **Methodology:** Instead of going through the traditional learning steps (general programming aspects -> visualizing images -> motivation), this solution proposes another approach: visualizing images -> motivation -> general programming concepts. This new approach has proved effective in [recent training events](https://moodle.cptec.inpe.br/course/view.php?id=31).
@@ -22,7 +24,7 @@
 
 - **EUMETSAT (LAND SAF and H SAF):** A variety of products from the SAFs (Satellite Application Facilities).
 
-**Links for the latest version of the Colab Notebooks:**
+**Links for the latest version of the Example Google Colab Notebooks:**
 
 - **AutoMET_01_GOES-R.ipynb:** [Link](https://colab.research.google.com/drive/1zuK7b4RmtECoNqPyiNi2Cb8t_psaQFJB?usp=sharing)
 - **AutoMET_02_METEOSAT.ipynb:** [Link](https://colab.research.google.com/drive/1hWFwf_Ftz-Aod6Tr5V6hK7jKYMb8LL9t?usp=sharing)
@@ -40,7 +42,7 @@ Among the main packages used by Automet are:
 
 **Developed by:** Diego Souza (https://github.com/diegormsouza) - INPE / CGCT / DISSM (Brazil)
 
-**Trainees using AutoMET during a capacity building event:**
+**Trainees using AutoMET during a capacity building event (Uruguay - November 2023):**
 
 ![image](https://github.com/diegormsouza/automet/assets/54595784/0c3523b3-d9dc-484a-bf6b-806da5e52552)
 
