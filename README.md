@@ -26,7 +26,7 @@
 
 - **SENTINEL 2 (AWS):** True color composites (10 m resolution) for the region of interest. Tested since January 2017.
 
-**Links for the latest version of the Example Google Colab Notebooks (you may create a copy and adapt them according to your needs):**
+**Links for the latest version of the Example Google Colab Notebooks (you may create a copy and adapt them according to your needs - you may run all scripts online, there's no need to install tools locally):**
 
 - **AutoMET_01_GOES-R.ipynb:** [Link](https://colab.research.google.com/drive/1zuK7b4RmtECoNqPyiNi2Cb8t_psaQFJB?usp=sharing)
 - **AutoMET_02_METEOSAT.ipynb:** [Link](https://colab.research.google.com/drive/1hWFwf_Ftz-Aod6Tr5V6hK7jKYMb8LL9t?usp=sharing)
