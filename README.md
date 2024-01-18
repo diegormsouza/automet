@@ -21,7 +21,17 @@ NWP: open ecmwf data available for download since January 21 2022 00:00 ('2022-0
 
 - **EUMETSAT (LAND SAF and H SAF):** A variety of products from the SAFs (Satellite Application Facilities).
 
-**Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations as well.
+**Links for the latest version of the Colab Notebooks:**
+
+- **AutoMET_01_GOES-R.ipynb:** [Link](https://colab.research.google.com/drive/1zuK7b4RmtECoNqPyiNi2Cb8t_psaQFJB?usp=sharing)
+- **AutoMET_02_METEOSAT.ipynb:** [Link](https://colab.research.google.com/drive/1hWFwf_Ftz-Aod6Tr5V6hK7jKYMb8LL9t?usp=sharing)
+- **AutoMET_03_SATELLITE_CASE_STUDIES.ipynb:** [Link](https://colab.research.google.com/drive/1WvX0cshlUyYFbNSmv4wKujXp5SRqmumG?usp=sharing)
+- **AutoMET_04_NWP_and_METAR.ipynb:** [Link](https://colab.research.google.com/drive/1ynhgk0RAk9WxKWEv9ER1aF8GQh9iXeML?usp=sharing)
+- **AutoMET_05_SATELLITE_NWP_and_METAR.ipynb:** [Link](https://colab.research.google.com/drive/1cWBawfkh-SygeXx7nZGDb4aF-8f_U6_c?usp=sharing)
+- **AutoMET_06_ANIMATIONS.ipynb:** [Link](https://colab.research.google.com/drive/1TxgTEYYLxNhd1gHZfvcK-GdhvG4yjtz0?usp=sharing)
+- **AutoMET_07_SAFs.ipynb:** [Link](https://colab.research.google.com/drive/1iTiWOu9mk5CePaz77JQRqyBdUkJKD2Gj?usp=sharing)
+
+**Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations and research as well.
 
 Among the main packages used by Automet are:
 - Pytroll/Satpy: https://github.com/pytroll/satpy 
