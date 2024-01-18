@@ -18,7 +18,7 @@
 
 - **Meteosat 0° and Meteosat 45.5° (EUMDAC):** 'msg0' tested with data since March 26 2004 (every 15 minutes). 'msg45' tested with data since February 01 2017.
 
-- **NWP:** open ecmwf data available for download since January 21 2022 00:00 ('2022-01-21 00:00'. gfs data available for download since February 26 2021 00:00 ('2021-02-26 00:00'). gfs products: 'pgrb2.0p25', 'pgrb2.0p50', 'pgrb2.1p00'.
+- **NWP:** open ecmwf data available for download since January 21 2022 00:00 ('2022-01-21 00:00'). gfs data available for download since February 26 2021 00:00 ('2021-02-26 00:00'). gfs products: 'pgrb2.0p25', 'pgrb2.0p50', 'pgrb2.1p00'.
 
 - **METAR (UNIDATA):** metar data available for the last 10 days, for each hour
 
