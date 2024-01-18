@@ -22,7 +22,9 @@
 
 - **METAR (UNIDATA):** metar data available for the last 10 days, for each hour.
 
-- **EUMETSAT (LAND SAF and H SAF):** A variety of products from the SAFs (Satellite Application Facilities). 14 products (LEO and GEO) from the SAFs are supported.
+- **LAND SAF and H SAF (EUMETSAT):** A variety of products from the SAFs (Satellite Application Facilities). 14 products (LEO and GEO) from the SAFs are supported.
+
+- **SENTINEL 2 (AWS):** True color composites (10 m resolution) for the region of interest. Tested since January 2017.
 
 **Links for the latest version of the Example Google Colab Notebooks (you may create a copy and adapt them according to your needs):**
 
@@ -33,7 +35,8 @@
 - **AutoMET_05_SATELLITE_NWP_and_METAR.ipynb:** [Link](https://colab.research.google.com/drive/1cWBawfkh-SygeXx7nZGDb4aF-8f_U6_c?usp=sharing)
 - **AutoMET_06_ANIMATIONS.ipynb:** [Link](https://colab.research.google.com/drive/1TxgTEYYLxNhd1gHZfvcK-GdhvG4yjtz0?usp=sharing)
 - **AutoMET_07_SAFs.ipynb:** [Link](https://colab.research.google.com/drive/1iTiWOu9mk5CePaz77JQRqyBdUkJKD2Gj?usp=sharing)
-
+- **AutoMET_08_SENTINEL2.ipynb:** [Link](https://colab.research.google.com/drive/1H9Gt3fSfimZHqn7FkwLgw2P6VtERDcfp?usp=sharing)
+ 
 **Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations and research as well. You may adapt the functions the way you need.
 
 Among the main packages used by AutoMET are:
