@@ -2,13 +2,13 @@
 
 ![rect42596](https://github.com/diegormsouza/automet/assets/54595784/e2452735-f752-44e5-9665-42438980a790)
 
-**Objective:** The AutoMET solution (it is not a package) was created to facilitate the access and visualization of satellite imagery and products, NWP data and other meteorological information using simple functions that anyone can use and adapt, **including those not familiarized with programming**. The examples run directly in the cloud (Google Colab), without the need of installing any tools (but it is also possible to adapt it and run the examples locally). Below, some examples created with AutoMET:
+**Objective:** The AutoMET solution (it is not a package) was created to facilitate the access and visualization of satellite imagery and products, NWP data and other meteorological information using simple functions that anyone can use and adapt, **including those not familiarized with programming**. The examples run **directly in the cloud (Google Colab)**, without the need of installing any tools (but it is also possible to adapt it and run the examples locally). Students may create images processind data available since the launch of each supported satellite! Below, some examples created with AutoMET:
 
 ![1](https://github.com/diegormsouza/automet/assets/54595784/f09c3af9-a5fc-46c4-ae96-f67364f24916)
 
 **The Challenge:** During training events on satellite meteorology and related fields, we usually have a mixed audience (researchers, students, technicians, meteorologists, managers, etc). Hands-on programming activities are frequently demanded, but usually, most of the participants are not experienced programmers, thus taking a considerable amount of time for them to be able to produce advanced images, and some participants don't feel motivated. This solution aims to create a simple way to motivate participants to learn programming by allowing them to quickly download, process and visualize information by using **simple functions**. Then, after creating nice images, we proceed understanding how these functions work.
 
-**Methodology:** Instead of going through the traditional learning steps (general programming aspects -> visualizing images -> motivation), this solution proposes another approach: visualizing images -> motivation -> general programming concepts. This new approach has proved effective in [recent training events](https://moodle.cptec.inpe.br/course/view.php?id=31).
+**Methodology:** Instead of going through the traditional learning steps (general programming aspects -> visualizing images -> motivation), this solution proposes another approach: visualizing images -> motivation -> general programming concepts. This new approach has proved effective in recent training events.
 
 **Supported Datasets (Jan 2024):**
 
