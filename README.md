@@ -28,7 +28,6 @@
 
 **Links for the latest version of the Example Google Colab Notebooks (you may create a copy and adapt them according to your needs - you may run all scripts online, there's no need to install tools locally):**
 
-- **AutoMET_00_OVERVIEW.ipynb:** [Link](https://colab.research.google.com/drive/1vCLAvFhegGYPKw6e8qqAiRNT73ny17Et?usp=sharing)
 - **AutoMET_01_GOES-R.ipynb:** [Link](https://colab.research.google.com/drive/1zuK7b4RmtECoNqPyiNi2Cb8t_psaQFJB?usp=sharing)
 - **AutoMET_02_METEOSAT.ipynb:** [Link](https://colab.research.google.com/drive/1hWFwf_Ftz-Aod6Tr5V6hK7jKYMb8LL9t?usp=sharing)
 - **AutoMET_03_SATELLITE_CASE_STUDIES.ipynb:** [Link](https://colab.research.google.com/drive/1WvX0cshlUyYFbNSmv4wKujXp5SRqmumG?usp=sharing)
