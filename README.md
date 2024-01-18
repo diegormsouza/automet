@@ -12,17 +12,17 @@
 
 **Supported Datasets (Jan 2024):**
 
-- **Geostationary Ring (EUMETVIEW):** Global mosaics (every 3 hours) with GOES-East/West, Meteosat 0°, Meteosat 45.5° and Himawari data. Data available since June 06 2021 18:00 UTC
+- **Geostationary Ring (EUMETVIEW):** Global mosaics (every 3 hours) with GOES-East/West, Meteosat 0°, Meteosat 45.5° and Himawari data. Data available since June 06 2021 18:00 UTC - 'ir108', 'airmass', 'natural_color', 'ash' and 'dust' RGBs are supported.
 
-- **GOES-East and GOES-West (AWS):** 'goes16' data available since July 10 2017, 'goes17' since August 28 2018, 'goes18' since August 02 2022. Note: please consider that goes-16 generated images every 15 minutes (instead of 10) until a few months after launch. **Note:** For the sake of speed, only ABI L2 Cloud and Moisture Imagery (Multi-Band Format) - 2 km resolution are supported for now.
+- **GOES-East and GOES-West (AWS):** 'goes16' data available since July 10 2017, 'goes17' since August 28 2018, 'goes18' since August 02 2022. Note: please consider that goes-16 generated images every 15 minutes (instead of 10) until a few months after launch. **Note:** For the sake of speed, only ABI L2 Cloud and Moisture Imagery (Multi-Band Format) - 2 km resolution are supported for now. All 16 bands and more than 20 composites are supported.
 
-- **Meteosat 0° and Meteosat 45.5° (EUMDAC):** 'msg0' tested with data since March 26 2004 (every 15 minutes). 'msg45' tested with data since February 01 2017.
+- **Meteosat 0° and Meteosat 45.5° (EUMDAC):** 'msg0' tested with data since March 26 2004 (every 15 minutes). 'msg45' tested with data since February 01 2017. All 12 SEVIRI bands and more than 20 composites are supported.
 
-- **NWP:** open ecmwf data available for download since January 21 2022 00:00 ('2022-01-21 00:00'). gfs data available for download since February 26 2021 00:00 ('2021-02-26 00:00'). gfs products: 'pgrb2.0p25', 'pgrb2.0p50', 'pgrb2.1p00'.
+- **NWP:** open ecmwf data available for download since January 21 2022 00:00 ('2022-01-21 00:00'). gfs data available for download since February 26 2021 00:00 ('2021-02-26 00:00'). gfs products: 'pgrb2.0p25', 'pgrb2.0p50', 'pgrb2.1p00'. Currently, 15 fields and their variations are supported.
 
-- **METAR (UNIDATA):** metar data available for the last 10 days, for each hour
+- **METAR (UNIDATA):** metar data available for the last 10 days, for each hour.
 
-- **EUMETSAT (LAND SAF and H SAF):** A variety of products from the SAFs (Satellite Application Facilities).
+- **EUMETSAT (LAND SAF and H SAF):** A variety of products from the SAFs (Satellite Application Facilities). 14 products (LEO and GEO) from the SAFs are supported.
 
 **Links for the latest version of the Example Google Colab Notebooks:**
 
@@ -36,7 +36,7 @@
 
 **Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations and research as well.
 
-Among the main packages used by Automet are:
+Among the main packages used by AutoMET are:
 - Pytroll/Satpy: https://github.com/pytroll/satpy 
 - Herbie: https://github.com/blaylockbk/Herbie
 
