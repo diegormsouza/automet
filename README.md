@@ -39,3 +39,8 @@ Among the main packages used by Automet are:
 - Herbie: https://github.com/blaylockbk/Herbie
 
 **Developed by:** Diego Souza (https://github.com/diegormsouza) - INPE / CGCT / DISSM (Brazil)
+
+**Trainees using AutoMET during a capacity building event:**
+
+![image](https://github.com/diegormsouza/automet/assets/54595784/0c3523b3-d9dc-484a-bf6b-806da5e52552)
+
