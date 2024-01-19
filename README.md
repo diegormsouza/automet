@@ -4,7 +4,7 @@
 
 **Introduction:** The AutoMET solution (it is not a package) was created to facilitate the access and visualization of satellite imagery and products, NWP data and other meteorological information using simple functions that anyone can use and adapt, **including those not familiarized with programming**. The examples run **directly in the cloud (Google Colab)**, without the need of installing any tools (but it is also possible to adapt it and run the examples locally). Students may create images processing data available since the launch of each supported satellite! Below, some examples created with AutoMET:
 
-![1](https://github.com/diegormsouza/automet/assets/54595784/ec98a5a1-8b54-40f7-b7b3-21ee57d2b08c)
+![1](https://github.com/diegormsouza/automet/assets/54595784/7554f491-bd55-447a-904d-34198662d649)
 
 **The Challenge:** During training events on satellite meteorology and related fields, we usually have a mixed audience (researchers, students, technicians, meteorologists, managers, etc). Hands-on programming activities are frequently demanded, but usually, most of the participants are not experienced programmers, thus taking a considerable amount of time for them to be able to produce advanced images, and some participants don't feel motivated. This solution aims to create a simple way to motivate participants to learn programming by allowing them to quickly download, process and visualize information by using **simple functions**. Then, after creating nice images, we proceed understanding how these functions work.
 
