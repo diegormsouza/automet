@@ -2,7 +2,7 @@
 
 ![rect42596](https://github.com/diegormsouza/automet/assets/54595784/e2452735-f752-44e5-9665-42438980a790)
 
-**Introduction:** The AutoMET solution (it is not a package) was created to facilitate the access and visualization of satellite imagery and products, NWP data and other meteorological information using simple functions that anyone can use and adapt, **including those not familiarized with programming**. The examples run **directly in the cloud (Google Colab)**, without the need of installing any tools (but it is also possible to adapt it and run the examples locally). Students may create images processing data available since the launch of each supported satellite! Below, some examples created with AutoMET:
+**Introduction:** AutoMET is a set of functions created to facilitate the access and visualization of satellite imagery and products, NWP data and other meteorological information using simple commands that anyone can use and adapt, **including those not familiarized with programming**. The examples run **directly in the cloud (Google Colab)**, without the need of installing any tools (but it is also possible to adapt it and run the examples locally). Students may create images processing data available since the launch of each supported satellite! Below, some examples created with AutoMET:
 
 ![1](https://github.com/diegormsouza/automet/assets/54595784/7554f491-bd55-447a-904d-34198662d649)
 
