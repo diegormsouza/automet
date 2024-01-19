@@ -40,13 +40,13 @@
 - **AutoMET_08_SENTINEL2.ipynb:** [Link](https://colab.research.google.com/drive/1H9Gt3fSfimZHqn7FkwLgw2P6VtERDcfp?usp=sharing)
 - **AutoMET_09_MIMIC_TPW.ipynb:** [Link](https://colab.research.google.com/drive/1HffeqwdUJx4Jc94wbUgitHf_RlVRyIid?usp=sharing)
    
-**Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations and research as well. You may adapt the functions the way you need.
+**Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations and research as well. You may adapt the AutoMET functions the way you need!
 
 **Trainees using AutoMET during a capacity building event (Uruguay - November 2023):**
 
 ![image](https://github.com/diegormsouza/automet/assets/54595784/0c3523b3-d9dc-484a-bf6b-806da5e52552)
 
-Among the main packages used by AutoMET are:
+Among the great open source packages used by AutoMET are:
 - Pytroll/Satpy: https://github.com/pytroll/satpy 
 - Herbie: https://github.com/blaylockbk/Herbie
 
