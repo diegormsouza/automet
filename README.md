@@ -42,7 +42,7 @@
    
 **Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations and research as well. You may adapt the AutoMET functions the way you need!
 
-**Trainees using AutoMET during a capacity building event (Uruguay - November 2023):**
+**Trainees using AutoMET functions during a capacity building event (Uruguay - November 2023):**
 
 ![image](https://github.com/diegormsouza/automet/assets/54595784/0c3523b3-d9dc-484a-bf6b-806da5e52552)
 
