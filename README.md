@@ -24,8 +24,10 @@
 
 - **LAND SAF and H SAF (EUMETSAT):** A variety of products from the SAFs (Satellite Application Facilities). 14 products (LEO and GEO) from the SAFs are supported.
 
-- **SENTINEL 2 (AWS):** True color composites (10 m resolution) for the region of interest. Tested since January 2017.
+- **SENTINEL 2 (AWS):** True color composites (10 m resolution) for the region of interest. Available since January 2017.
 
+- **MIMIC TPW ver.2 (CIMSS):** Total Precipitable Water composites for the region of interest. Available since 01 October 2016 00:00 UTC.
+  
 **Links for the latest version of the Example Google Colab Notebooks (you may create a copy and adapt them according to your needs - you may run all scripts online, there's no need to install tools locally):**
 
 - **AutoMET_01_GOES-R.ipynb:** [Link](https://colab.research.google.com/drive/1zuK7b4RmtECoNqPyiNi2Cb8t_psaQFJB?usp=sharing)
