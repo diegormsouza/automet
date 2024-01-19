@@ -28,7 +28,7 @@
 
 - **MIMIC TPW ver.2 (CIMSS):** Total Precipitable Water composites for the region of interest. Available since 01 October 2016 00:00 UTC.
   
-**Links for the latest version of the Example Google Colab Notebooks (you may create a copy and adapt them according to your needs - you may run all scripts online, there's no need to install tools locally. Also, you may use any kind of plot in a single notebook - we have separate the examples to reduce the notebook file sizes):**
+**Links for the latest version of the Example Google Colab Notebooks (you may create a copy and adapt them according to your needs - you may run all scripts online, there's no need to install tools locally. Also, you may use any kind of plot in a single notebook - I have separated the examples to reduce the notebook file sizes):**
 
 - **AutoMET_00_CASE_STUDIES.ipynb:** [Link](https://colab.research.google.com/drive/1WvX0cshlUyYFbNSmv4wKujXp5SRqmumG?usp=sharing)
 - **AutoMET_01_GOES-R.ipynb:** [Link](https://colab.research.google.com/drive/1zuK7b4RmtECoNqPyiNi2Cb8t_psaQFJB?usp=sharing)
