@@ -30,15 +30,15 @@
   
 **Links for the latest version of the Example Google Colab Notebooks (you may create a copy and adapt them according to your needs - you may run all scripts online, there's no need to install tools locally. Also, you may use any kind of plot in a single notebook - we have separate the examples to reduce the notebook file sizes):**
 
+- **AutoMET_00_CASE_STUDIES.ipynb:** [Link](https://colab.research.google.com/drive/1WvX0cshlUyYFbNSmv4wKujXp5SRqmumG?usp=sharing)
 - **AutoMET_01_GOES-R.ipynb:** [Link](https://colab.research.google.com/drive/1zuK7b4RmtECoNqPyiNi2Cb8t_psaQFJB?usp=sharing)
 - **AutoMET_02_METEOSAT.ipynb:** [Link](https://colab.research.google.com/drive/1hWFwf_Ftz-Aod6Tr5V6hK7jKYMb8LL9t?usp=sharing)
-- **AutoMET_03_SATELLITE_CASE_STUDIES.ipynb:** [Link](https://colab.research.google.com/drive/1WvX0cshlUyYFbNSmv4wKujXp5SRqmumG?usp=sharing)
-- **AutoMET_04_NWP_and_METAR.ipynb:** [Link](https://colab.research.google.com/drive/1ynhgk0RAk9WxKWEv9ER1aF8GQh9iXeML?usp=sharing)
-- **AutoMET_05_SATELLITE_NWP_and_METAR.ipynb:** [Link](https://colab.research.google.com/drive/1cWBawfkh-SygeXx7nZGDb4aF-8f_U6_c?usp=sharing)
-- **AutoMET_06_ANIMATIONS.ipynb:** [Link](https://colab.research.google.com/drive/1TxgTEYYLxNhd1gHZfvcK-GdhvG4yjtz0?usp=sharing)
-- **AutoMET_07_SAFs.ipynb:** [Link](https://colab.research.google.com/drive/1iTiWOu9mk5CePaz77JQRqyBdUkJKD2Gj?usp=sharing)
-- **AutoMET_08_SENTINEL2.ipynb:** [Link](https://colab.research.google.com/drive/1H9Gt3fSfimZHqn7FkwLgw2P6VtERDcfp?usp=sharing)
-- **AutoMET_09_MIMIC_TPW.ipynb:** [Link](https://colab.research.google.com/drive/1HffeqwdUJx4Jc94wbUgitHf_RlVRyIid?usp=sharing)
+- **AutoMET_03_NWP_and_METAR.ipynb:** [Link](https://colab.research.google.com/drive/1ynhgk0RAk9WxKWEv9ER1aF8GQh9iXeML?usp=sharing)
+- **AutoMET_04_SATELLITE_NWP_and_METAR.ipynb:** [Link](https://colab.research.google.com/drive/1cWBawfkh-SygeXx7nZGDb4aF-8f_U6_c?usp=sharing)
+- **AutoMET_05_ANIMATIONS.ipynb:** [Link](https://colab.research.google.com/drive/1TxgTEYYLxNhd1gHZfvcK-GdhvG4yjtz0?usp=sharing)
+- **AutoMET_06_SAFs.ipynb:** [Link](https://colab.research.google.com/drive/1iTiWOu9mk5CePaz77JQRqyBdUkJKD2Gj?usp=sharing)
+- **AutoMET_07_SENTINEL2.ipynb:** [Link](https://colab.research.google.com/drive/1H9Gt3fSfimZHqn7FkwLgw2P6VtERDcfp?usp=sharing)
+- **AutoMET_08_MIMIC_TPW.ipynb:** [Link](https://colab.research.google.com/drive/1HffeqwdUJx4Jc94wbUgitHf_RlVRyIid?usp=sharing)
    
 **Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations and research as well. You may adapt the AutoMET functions the way you need!
 
