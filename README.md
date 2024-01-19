@@ -38,7 +38,8 @@
 - **AutoMET_06_ANIMATIONS.ipynb:** [Link](https://colab.research.google.com/drive/1TxgTEYYLxNhd1gHZfvcK-GdhvG4yjtz0?usp=sharing)
 - **AutoMET_07_SAFs.ipynb:** [Link](https://colab.research.google.com/drive/1iTiWOu9mk5CePaz77JQRqyBdUkJKD2Gj?usp=sharing)
 - **AutoMET_08_SENTINEL2.ipynb:** [Link](https://colab.research.google.com/drive/1H9Gt3fSfimZHqn7FkwLgw2P6VtERDcfp?usp=sharing)
- 
+- **AutoMET_09_MIMIC_TPW.ipynb:** [Link](https://colab.research.google.com/drive/1HffeqwdUJx4Jc94wbUgitHf_RlVRyIid?usp=sharing)
+   
 **Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations and research as well. You may adapt the functions the way you need.
 
 **Trainees using AutoMET during a capacity building event (Uruguay - November 2023):**
