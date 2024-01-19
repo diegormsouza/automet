@@ -49,5 +49,3 @@
 Among the great open source packages used by AutoMET are:
 - Pytroll/Satpy: https://github.com/pytroll/satpy 
 - Herbie: https://github.com/blaylockbk/Herbie
-
-**Developed by:** Diego Souza (https://github.com/diegormsouza) - INPE / CGCT / DISSM (Brazil)
