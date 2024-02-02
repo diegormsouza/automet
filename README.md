@@ -43,9 +43,18 @@
 **Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations and research as well. You may adapt the AutoMET functions the way you need!
 
 **Trainees using AutoMET functions during a capacity building event (Uruguay - November 2023):**
-
 ![image](https://github.com/diegormsouza/automet/assets/54595784/0c3523b3-d9dc-484a-bf6b-806da5e52552)
 
 Among the great open source packages used by AutoMET are:
 - Pytroll/Satpy: https://github.com/pytroll/satpy 
 - Herbie: https://github.com/blaylockbk/Herbie
+  
+**Instead of using AutoMET, do you want to learn from scratch?! No problem, we have many example notebooks for you!**
+- GOES-R Data Processing (short): [Link](https://colab.research.google.com/drive/1mEVuUir-9J5pGM37z231dAV7gxDpt2DD?usp=sharing)
+- GOES-R Data Processing (long): [Link](https://colab.research.google.com/drive/17yFOKezLEUhIziUUUXNIbYEwndp-gAMp?usp=sharing)
+- GOES-R Channel Differences and RGBs: [Link](https://colab.research.google.com/drive/1zm6PviABfx4IMd6mM0kPWKVM6xO5TBEA?usp=sharing) 
+- NWP Data Processing: [Link](https://colab.research.google.com/drive/1R2IiewRdR_odQ8RfFzBXmhkwVz0o3BZ_?usp=sharing)
+- Oceanography Data Processing: [Link](https://colab.research.google.com/drive/1c470R_ClKRibf8UM7wyRUqTFnEbgBGXD?usp=sharing)
+- General GEONETCast Data Processing: [Link](https://colab.research.google.com/drive/1Z_qiEpc_e2jNaGZymZe0QEkgXt06PUm6?usp=sharing)
+- MTG Data Processing: [Link](https://colab.research.google.com/drive/1Q0zNXZkfq6xkTHP5_bVKFZdUXh3bzGxI?usp=sharing)
+- EUMETSAT LSA SAF and H SAF Data Processing: [Link](https://colab.research.google.com/drive/1-XEgEwiefxUHdZEKXg9kx7TVVid8VHkB?usp=sharing)
