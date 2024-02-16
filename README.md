@@ -27,7 +27,9 @@
 - **SENTINEL 2 (AWS):** True color composites (10 m resolution) for the region of interest. Available since January 2017.
 
 - **MIMIC TPW ver.2 (CIMSS):** Total Precipitable Water composites for the region of interest. Available since 01 October 2016 00:00 UTC.
-  
+
+- **MetOp ASCAT Winds (NOAA Coastwatch FTP):** Daily MetOP A/B/C ASCAT composites available since 07 March 2020.
+    
 **Links for the latest version of the Example Google Colab Notebooks (you may create a copy and adapt them according to your needs - you may run all scripts online, there's no need to install tools locally. Also, you may use any kind of plot in a single notebook - I have separated the examples to reduce the notebook file sizes):**
 
 - **AutoMET_00_CASE_STUDIES.ipynb:** [Link](https://colab.research.google.com/drive/1WvX0cshlUyYFbNSmv4wKujXp5SRqmumG?usp=sharing)
@@ -39,7 +41,8 @@
 - **AutoMET_06_SAFs.ipynb:** [Link](https://colab.research.google.com/drive/1iTiWOu9mk5CePaz77JQRqyBdUkJKD2Gj?usp=sharing)
 - **AutoMET_07_SENTINEL2.ipynb:** [Link](https://colab.research.google.com/drive/1H9Gt3fSfimZHqn7FkwLgw2P6VtERDcfp?usp=sharing)
 - **AutoMET_08_MIMIC_TPW.ipynb:** [Link](https://colab.research.google.com/drive/1HffeqwdUJx4Jc94wbUgitHf_RlVRyIid?usp=sharing)
-   
+- **AutoMET_09_ASCAT_Winds.ipynb:** [Link](https://colab.research.google.com/drive/17_ADn6MmbxabSNFlg_cPf3UFAP1ibE23?usp=sharing)
+     
 **Note:** These examples were created primarily for use during capacity building activities but they can be adapted for operations and research as well. You may adapt the AutoMET functions the way you need!
 
 **Trainees using AutoMET functions during a capacity building event (Uruguay - November 2023):**
