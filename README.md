@@ -10,7 +10,7 @@
 
 **Methodology:** Instead of going through the traditional learning steps (general programming aspects -> visualizing images -> motivation), this solution proposes another approach: visualizing awesome images -> case studies -> motivation -> general programming concepts. This new approach has proved effective in recent training events.
 
-**Supported Datasets (Jan 2024):**
+**Supported Datasets (Feb 2024):**
 
 - **Geostationary Ring (EUMETVIEW):** Global mosaics (every 3 hours) with GOES-East/West, Meteosat 0°, Meteosat 45.5° and Himawari data. Data available since June 06 2021 18:00 UTC - 'ir108', 'airmass', 'natural_color', 'ash' and 'dust' RGBs are supported.
 
